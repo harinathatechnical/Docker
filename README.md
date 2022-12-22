@@ -5,15 +5,15 @@
 
       Docker ps -> see all the processes running 
 
-      Docker ps -- all  with all process run upto now 
+      Docker ps -- all  with all process run upto now 
 
-      Docker system prune  delete all stopped containers 
+      Docker system prune delete all stopped containers 
 
-      Docker start –a <<container id >>  a used to print the logs 
+      Docker start –a <<container id >> a used to print the logs 
 
-      Docker logs <<contanersid>>  print the logs after started to need to see 
+      Docker logs <<contanersid>> print the logs after started to need to see 
 
-      Docker exec –it <<contenerid>> <<command >>  execute command already running container 
+      Docker exec –it <<contenerid>> <<command >> execute command already running container 
 
       Docker run <<imageName>> 
       Or 
